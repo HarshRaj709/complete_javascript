@@ -1,0 +1,16 @@
+.box{
+    height:100px;
+    width:100px;
+    background-color: red;
+    border:2px solid black;
+    margin: 1px;
+    text-align: center;
+}
+
+.newclass{
+    background-color: yellow;
+}
+
+.class{
+    color: purple;
+}
